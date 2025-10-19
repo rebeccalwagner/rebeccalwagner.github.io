@@ -24,3 +24,28 @@ Contact me at rlw137@georgetown.edu.
      CV
   </a>
 </div>
+
+<nav style="text-align:center; margin: 20px 0;">
+  <a href="#about" style="margin:0 10px;">About</a>
+  <a href="#projects" style="margin:0 10px;">Projects</a>
+  <a href="#contact" style="margin:0 10px;">Contact</a>
+</nav>
+
+<style>
+html { scroll-behavior: smooth; }
+section { padding: 50px 0; border-bottom: 1px solid #eee; }
+</style>
+
+---
+
+<section id="about">
+  {% include about.html %}
+</section>
+
+<section id="projects">
+  {% include projects.html %}
+</section>
+
+<section id="contact">
+  {% include contact.html %}
+</section>
