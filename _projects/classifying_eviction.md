@@ -1,8 +1,8 @@
 ---
-title: "Reddit vs. Reality: Online Perceptions of Neighborhood Safety in Washington, D.C.
-year: 2024
-description: "In this project, we attempt to better understand the relationship between perceptions of crime, true reported rates of crime, and housing markets, in an effort to untangle the many factors at play in gentrification. To do so, we focus specifically on the city of Washington, D.C, and utilize public datasets on crime rates and housing prices. We also collect our own dataset from social media platform Reddit through its API to create a quantification of public safety sentiment. We ultimately find that trends in perceived safety appear to lag behind changes in true crime rates, and that online safety sentiments and housing prices appear to be correlated, though more analysis is needed to parse the nature of this relationship."
-repo: https://github.com/rebeccalwagner/PPOL_5203_FinalProject
+title: "Leveraging Machine Learning to Analyze Eviction Patterns in the DMV"
+year: 2025
+description: "In this paper, I examine evictions within the Washington, D.C. metropolitan area and attempt to apply machine learning methods to explain and predict eviction filing rates. This pursuit may contribute to literature exploring populations at greatest risk of eviction, as well as providing a method for identifying areas for potential targeted policy intervention. Ultimately, I employ several classification models and identify significant predictors of eviction within a simple logistic regression pipeline."
+repo: https://github.com/rebeccalwagner/DataSciII-Final
 ---
 
 Text more text here.
