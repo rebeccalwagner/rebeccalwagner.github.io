@@ -1,5 +1,5 @@
-title: Rebecca Wagner's Online Portflio
-desription: Rebecca's portfolio - under construction
+title: Rebecca Wagner 
+desription: Rebecca Wanger's Online Portflio
 theme: minima
 author: Rebecca Wagner
 
@@ -8,3 +8,7 @@ header_pages:
 - projects.md
 - cv.md
 - about.md 
+
+collections:
+  projects:
+    output: true
