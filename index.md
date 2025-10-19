@@ -1,8 +1,10 @@
 ---
 layout: home
-title: Welcome
+title: Hi, I'm Rebecca Wagner
 ---
 
-# Hello, I'm Rebecca!
+# I'm a Data Scientist based in Washington, D.C.
 
-Welcome to my portfolio: currently under construction
+I study social policy like education and housing.
+
+Thanks for checking out my page. You can contact me at rlw137@georgetown.edu. 
