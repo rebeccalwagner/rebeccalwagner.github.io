@@ -6,7 +6,7 @@ layout: home
   <h1>Rebecca Wagner</h1>
   <nav>
     <a href="#projects">Projects</a>
-    <a href="#about">More About</a>
+    <a href="#about">About</a>
     <a href="#contact">Contact</a>
 
   </nav>
@@ -32,8 +32,11 @@ layout: home
 <!-- ================= ABOUT ================= -->
 <section id="about">
   <h2>More About Me</h2>
-  I am originally from New Jersey, but have since lived in Virginia, Boston, and Washington D.C.
-  Outside of work, I enjoy riding horses, baking, and creating art. 
+  <p>
+    I am originally from New Jersey, but have since lived in Virginia, Boston, and Washington D.C.
+    
+    Outside of work, I enjoy riding horses, baking, and creating art. 
+  </p>
 </section>
 
 <!-- ================= CONTACT ================= -->
