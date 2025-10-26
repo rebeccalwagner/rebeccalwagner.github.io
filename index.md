@@ -12,10 +12,6 @@ html { scroll-behavior: smooth; }
 section { padding: 50px 0; border-bottom: 1px solid #eee; }
 </style>
 
-<section id="about">
-  {% include about.html %}
-</section>
-
 <section id="projects">
   {% include projects.html %}
 </section>
