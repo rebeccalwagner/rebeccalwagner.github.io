@@ -5,9 +5,10 @@ layout: home
 <header>
   <h1>Rebecca Wagner</h1>
   <nav>
-    <a href="#about">About</a>
     <a href="#projects">Projects</a>
+    <a href="#about">More About</a>
     <a href="#contact">Contact</a>
+
   </nav>
 </header>
 
@@ -17,6 +18,9 @@ layout: home
   <p>
     I study social policy - like education and housing - through data and quantitiative methods.
   </p>
+  <a href="{{ '/assets/CV_Rebecca_Wagner.pdf' | relative_url }}" target="_blank" class="cv-button">
+    View My CV
+  </a>
 </section>
 
 <!-- ================= PROJECTS ================= -->
@@ -25,12 +29,20 @@ layout: home
   {% include projects.html %}
 </section>
 
+<!-- ================= ABOUT ================= -->
+<section id="about">
+  <h2>More About Me</h2>
+  I am originally from New Jersey, but have since lived in Virginia, Boston, and Washington D.C.
+  Outside of work, I enjoy riding horses, baking, and creating art. 
+</section>
+
 <!-- ================= CONTACT ================= -->
 <section id="contact">
   <h2>Contact</h2>
   <p>
     Feel free to reach out!<br>
     <a href="mailto:rlw137@georgetown.edu">rlw137@georgetown.edu</a>
+    <a href="https://www.linkedin.com/in/rebeccawagner01/">LinkedIn</a>
   </p>
 </section>
 
