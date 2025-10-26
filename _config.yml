@@ -1,11 +1,7 @@
-title: Rebecca Wagner 
+title: 
 desription: Rebecca Wanger's Online Portflio
 theme: minima
 author: Rebecca Wagner
-
-header_pages:
-- index.md
-- projects.md
 
 collections:
   projects:
