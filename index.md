@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Hi, I'm Rebecca Wagner. I'm a data scientist based in Washington, D.C.
 ---
 
 <!-- ================= HEADER ================= -->
