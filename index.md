@@ -44,6 +44,10 @@ title: Hi, I'm Rebecca Wagner. I'm a data scientist based in Washington, D.C.
     scroll-behavior: smooth;
   }
 
+  .site-header {
+  display: none !important;
+  }
+
   body {
     margin: 0;
     font-family: system-ui, -apple-system, sans-serif;
