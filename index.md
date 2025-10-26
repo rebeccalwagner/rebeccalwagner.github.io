@@ -16,9 +16,9 @@ layout: home
 <section id="hello">
   <h1>Hi, I'm Rebecca Wagner. I'm a policy analyst and data scientst based in Washington, D.C.</h1>
   <p>
-    I study social policy - like education and housing - through data and quantitiative methods.
+    I study social policy—like education and housing—through data and quantitiative methods.
   </p>
-  <a href="{{ '/assets/CV_Rebecca_Wagner.pdf' | relative_url }}" target="_blank" class="cv-button">
+  <a href="\assets\files\placeholder_resume.pdf" target="_blank" class="cv-button">
     View My CV
   </a>
 </section>
@@ -104,9 +104,6 @@ layout: home
 
   /* Sections */
   main, section {
-    padding: 80px 2rem;
-    max-width: 800px;
-    margin: 0 auto;
   }
 
   section h2 {
