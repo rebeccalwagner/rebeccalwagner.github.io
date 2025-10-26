@@ -1,7 +1,6 @@
 ---
 layout: home
 ---
-
 <!-- ================= HEADER ================= -->
 <header>
   <h1>Rebecca Wagner</h1>
@@ -12,13 +11,12 @@ layout: home
   </nav>
 </header>
 
-<!-- ================= ABOUT ================= -->
-<section id="about">
-  <h2>About</h2>
+<!-- ================= LANDING ================= -->
+<section id="hello">
+  <h1>Hi, I'm <span>Rebecca Wagner</span></h1>
+  <h2>Data Scientist in Washington, D.C.</h2>
   <p>
-    I’m a data scientist focused on social policy — particularly education and housing.
-    I use data to understand how policy decisions affect communities and outcomes.
-    Thanks for checking out my page!
+    I explore data to understand how education, housing, and policy decisions shape our communities.
   </p>
 </section>
 
@@ -45,6 +43,12 @@ layout: home
 
   .site-header {
   display: none !important;
+  }
+
+  .page-content {
+  max-width: none !important;
+  width: 100% !important;
+  padding: 0 !important;
   }
 
   body {
