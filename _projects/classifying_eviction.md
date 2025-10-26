@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Machine Learning to Analyze Eviction Patterns in the DMV"
 year: 2025
-description: "In this paper, I examine evictions within the Washington, D.C. metropolitan area and attempt to apply machine learning methods to explain and predict eviction filing rates. This pursuit may contribute to literature exploring populations at greatest risk of eviction, as well as providing a method for identifying areas for potential targeted policy intervention. Ultimately, I employ several classification models and identify significant predictors of eviction within a simple logistic regression pipeline."
-image:
+description: "In this project, I utilize data on eviction filings in the Washington, D.C. metropolitan area to design several classification pipelines identifing census blocks with a high eviction risk. I also consider several significant predictors of eviction, and discuss how machine learning methods can inform targeted policy interventions combating housing insecurity."
+image: /assets/images/evicttion_dc_map.png
 repo: https://github.com/rebeccalwagner/DataSciII-Final
 ---
