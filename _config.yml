@@ -3,11 +3,9 @@ desription: Rebecca Wanger's Online Portflio
 theme: minima
 author: Rebecca Wagner
 
-# Navigation Links
 header_pages:
+- index.md
 - projects.md
-- cv.md
-- about.md 
 
 collections:
   projects:
