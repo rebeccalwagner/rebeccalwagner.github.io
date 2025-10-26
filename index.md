@@ -13,10 +13,9 @@ layout: home
 
 <!-- ================= LANDING ================= -->
 <section id="hello">
-  <h1>Hi, I'm <span>Rebecca Wagner</span></h1>
-  <h2>Data Scientist in Washington, D.C.</h2>
+  <h1>Hi, I'm Rebecca Wagner. I'm a policy analyst and data scientst based in Washington, D.C.</h1>
   <p>
-    I explore data to understand how education, housing, and policy decisions shape our communities.
+    I study social policy - like education and housing - through data and quantitiative methods.
   </p>
 </section>
 
